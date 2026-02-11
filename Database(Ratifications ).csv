@@ -1,0 +1,761 @@
+District code,District Short Name,District Name,Quarter,Component,Value,All District Value,District Short
+D06,AK/D,District of Alaska,Q1 FY20,Ratifications,0,1,AK-D
+D02,AL/M,Middle District of Alabama,Q1 FY20,Ratifications,0,1,AL-M
+D01,AL/N,Northern District of Alabama,Q1 FY20,Ratifications,0,1,AL-N
+D03,AL/S,Southern District of Alabama,Q1 FY20,Ratifications,0,1,AL-S
+D09,AR/E,Eastern District of Arkansas,Q1 FY20,Ratifications,0,1,AR-E
+D10,AR/W,Western District of Arkansas,Q1 FY20,Ratifications,0,1,AR-W
+D08,AZ/D,District of Arizona,Q1 FY20,Ratifications,0,1,AZ-D
+D12,CA/C,Central District of California,Q1 FY20,Ratifications,0,1,CA-C
+D97,CA/E,Eastern District of California,Q1 FY20,Ratifications,0,1,CA-E
+D11,CA/N,Northern District of California,Q1 FY20,Ratifications,0,1,CA-N
+D98,CA/S,Southern District of California,Q1 FY20,Ratifications,0,1,CA-S
+D13,CO/D,District of Colorado,Q1 FY20,Ratifications,0,1,CO-D
+D14,CT/D,District of Connecticut,Q1 FY20,Ratifications,0,1,CT-D
+D16,DC/D,District of Columbia,Q1 FY20,Ratifications,0,1,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q1 FY20,Ratifications,0,1,DC-SC
+D15,DE/D,District of Delaware,Q1 FY20,Ratifications,0,1,DE-D
+D18,FL/M,Middle District of Florida,Q1 FY20,Ratifications,0,1,FL-M
+D17,FL/N,Northern District of Florida,Q1 FY20,Ratifications,0,1,FL-N
+D04,FL/S,Southern District of Florida,Q1 FY20,Ratifications,0,1,FL-S
+D20,GA/M,Middle District of Georgia,Q1 FY20,Ratifications,0,1,GA-M
+D19,GA/N,Northern District of Georgia,Q1 FY20,Ratifications,0,1,GA-N
+D21,GA/S,Southern District of Georgia,Q1 FY20,Ratifications,0,1,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q1 FY20,Ratifications,0,1,GU-D
+D22,HI/D,District of Hawaii,Q1 FY20,Ratifications,0,1,HI-D
+D29,IA/N,Northern District of Iowa,Q1 FY20,Ratifications,0,1,IA-N
+D30,IA/S,Southern District of Iowa,Q1 FY20,Ratifications,0,1,IA-S
+D23,ID/D,District of Idaho,Q1 FY20,Ratifications,0,1,ID-D
+D26,IL/C,Central District of Illinois,Q1 FY20,Ratifications,0,1,IL-C
+D24,IL/N,Northern District of Illinois,Q1 FY20,Ratifications,0,1,IL-N
+D25,IL/S,Southern District of Illinois,Q1 FY20,Ratifications,0,1,IL-S
+D27,IN/N,Northern District of Indiana,Q1 FY20,Ratifications,0,1,IN-N
+D28,IN/S,Southern District of Indiana,Q1 FY20,Ratifications,0,1,IN-S
+D31,KS/D,District of Kansas,Q1 FY20,Ratifications,0,1,KS-D
+D32,KY/E,Eastern District of Kentucky,Q1 FY20,Ratifications,0,1,KY-E
+D33,KY/W,Western District of Kentucky,Q1 FY20,Ratifications,0,1,KY-W
+D34,LA/E,Eastern District of Louisiana,Q1 FY20,Ratifications,0,1,LA-E
+D95,LA/M,Middle District of Louisiana,Q1 FY20,Ratifications,0,1,LA-M
+D35,LA/W,Western District of Louisiana,Q1 FY20,Ratifications,0,1,LA-W
+D38,MA/D,District of Massachusetts,Q1 FY20,Ratifications,0,1,MA-D
+D37,MD/D,District of Maryland,Q1 FY20,Ratifications,0,1,MD-D
+D36,ME/D,District of Maine,Q1 FY20,Ratifications,0,1,ME-D
+D39,MI/E,Eastern District of Michigan,Q1 FY20,Ratifications,0,1,MI-E
+D40,MI/W,Western District of Michigan,Q1 FY20,Ratifications,0,1,MI-W
+D41,MN/D,District of Minnesota,Q1 FY20,Ratifications,0,1,MN-D
+D44,MO/E,Eastern District of Missouri,Q1 FY20,Ratifications,0,1,MO-E
+D45,MO/W,Western District of Missouri,Q1 FY20,Ratifications,0,1,MO-W
+D42,MS/N,Northern District of Mississippi,Q1 FY20,Ratifications,0,1,MS-N
+D43,MS/S,Southern District of Mississippi,Q1 FY20,Ratifications,0,1,MS-S
+D46,MT/D,District of Montana,Q1 FY20,Ratifications,0,1,MT-D
+D56,NC/E,Eastern District of North Carolina,Q1 FY20,Ratifications,0,1,NC-E
+D57,NC/M,Middle District of North Carolina,Q1 FY20,Ratifications,0,1,NC-M
+D58,NC/W,Western District of North Carolina,Q1 FY20,Ratifications,0,1,NC-W
+D59,ND/D,District of North Dakota,Q1 FY20,Ratifications,0,1,ND-D
+D47,NE/D,District of Nebraska,Q1 FY20,Ratifications,0,1,NE-D
+D49,NH/D,District of New Hampshire,Q1 FY20,Ratifications,0,1,NH-D
+D50,NJ/D,District of New Jersey,Q1 FY20,Ratifications,0,1,NJ-D
+D51,NM/D,District of New Mexico,Q1 FY20,Ratifications,0,1,NM-D
+D48,NV/D,District of Nevada,Q1 FY20,Ratifications,0,1,NV-D
+D53,NY/E,Eastern District of New York,Q1 FY20,Ratifications,0,1,NY-E
+D52,NY/N,Northern District of New York,Q1 FY20,Ratifications,0,1,NY-N
+D54,NY/S,Southern District of New York,Q1 FY20,Ratifications,0,1,NY-S
+D60,OH/N,Northern District of Ohio,Q1 FY20,Ratifications,0,1,OH-N
+D61,OH/S,Southern District of Ohio,Q1 FY20,Ratifications,0,1,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q1 FY20,Ratifications,0,1,OK-E
+D62,OK/N,Northern District of Oklahoma,Q1 FY20,Ratifications,0,1,OK-N
+D64,OK/W,Western District of Oklahoma,Q1 FY20,Ratifications,0,1,OK-W
+D65,OR/D,District of Oregon,Q1 FY20,Ratifications,0,1,OR-D
+D66,PA/E,Eastern District of Pennsylvania,Q1 FY20,Ratifications,0,1,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q1 FY20,Ratifications,0,1,PA-M
+D68,PA/W,Western District of Pennsylvania,Q1 FY20,Ratifications,0,1,PA-W
+D69,PR/D,District of Puerto Rico,Q1 FY20,Ratifications,0,1,PR-D
+D70,RI/D,District of Rhode Island,Q1 FY20,Ratifications,0,1,RI-D
+D71,SC/D,District of South Carolina,Q1 FY20,Ratifications,0,1,SC-D
+D73,SD/D,District of South Dakota,Q1 FY20,Ratifications,0,1,SD-D
+D74,TN/E,Eastern District of Tennessee,Q1 FY20,Ratifications,0,1,TN-E
+D75,TN/M,Middle District of Tennessee,Q1 FY20,Ratifications,0,1,TN-M
+D76,TN/W,Western District of Tennessee,Q1 FY20,Ratifications,0,1,TN-W
+D78,TX/E,Eastern District of Texas,Q1 FY20,Ratifications,0,1,TX-E
+D77,TX/N,Northern District of Texas,Q1 FY20,Ratifications,0,1,TX-N
+D79,TX/S,Southern District of Texas,Q1 FY20,Ratifications,0,1,TX-S
+D80,TX/W,Western District of Texas,Q1 FY20,Ratifications,0,1,TX-W
+D81,UT/D,District of Utah,Q1 FY20,Ratifications,0,1,UT-D
+D83,VA/E,Eastern District of Virginia,Q1 FY20,Ratifications,0,1,VA-E
+D84,VA/W,Western District of Virginia,Q1 FY20,Ratifications,0,1,VA-W
+D94,VI/D,District of the Virgin Islands,Q1 FY20,Ratifications,0,1,VI-D
+D82,VT/D,District of Vermont,Q1 FY20,Ratifications,0,1,VT-D
+D85,WA/E,Eastern District of Washington,Q1 FY20,Ratifications,0,1,WA-E
+D86,WA/W,Western District of Washington,Q1 FY20,Ratifications,0,1,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q1 FY20,Ratifications,0,1,WI-E
+D90,WI/W,Western District of Wisconsin,Q1 FY20,Ratifications,0,1,WI-W
+D87,WV/N,Northern District of West Virginia,Q1 FY20,Ratifications,0,1,WV-N
+D88,WV/S,Southern District of West Virginia,Q1 FY20,Ratifications,0,1,WV-S
+D91,WY/D,District of Wyoming,Q1 FY20,Ratifications,0,1,WY-D
+D06,AK/D,District of Alaska,Q2 FY19,Ratifications,0,1,AK-D
+D02,AL/M,Middle District of Alabama,Q2 FY19,Ratifications,0,1,AL-M
+D01,AL/N,Northern District of Alabama,Q2 FY19,Ratifications,0,1,AL-N
+D03,AL/S,Southern District of Alabama,Q2 FY19,Ratifications,0,1,AL-S
+D09,AR/E,Eastern District of Arkansas,Q2 FY19,Ratifications,0,1,AR-E
+D10,AR/W,Western District of Arkansas,Q2 FY19,Ratifications,0,1,AR-W
+D08,AZ/D,District of Arizona,Q2 FY19,Ratifications,0,1,AZ-D
+D12,CA/C,Central District of California,Q2 FY19,Ratifications,0,1,CA-C
+D97,CA/E,Eastern District of California,Q2 FY19,Ratifications,0,1,CA-E
+D11,CA/N,Northern District of California,Q2 FY19,Ratifications,0,1,CA-N
+D98,CA/S,Southern District of California,Q2 FY19,Ratifications,0,1,CA-S
+D13,CO/D,District of Colorado,Q2 FY19,Ratifications,0,1,CO-D
+D14,CT/D,District of Connecticut,Q2 FY19,Ratifications,0,1,CT-D
+D16,DC/D,District of Columbia,Q2 FY19,Ratifications,0,1,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q2 FY19,Ratifications,0,1,DC-SC
+D15,DE/D,District of Delaware,Q2 FY19,Ratifications,0,1,DE-D
+D18,FL/M,Middle District of Florida,Q2 FY19,Ratifications,0,1,FL-M
+D17,FL/N,Northern District of Florida,Q2 FY19,Ratifications,0,1,FL-N
+D04,FL/S,Southern District of Florida,Q2 FY19,Ratifications,0,1,FL-S
+D20,GA/M,Middle District of Georgia,Q2 FY19,Ratifications,0,1,GA-M
+D19,GA/N,Northern District of Georgia,Q2 FY19,Ratifications,0,1,GA-N
+D21,GA/S,Southern District of Georgia,Q2 FY19,Ratifications,0,1,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q2 FY19,Ratifications,0,1,GU-D
+D22,HI/D,District of Hawaii,Q2 FY19,Ratifications,0,1,HI-D
+D29,IA/N,Northern District of Iowa,Q2 FY19,Ratifications,0,1,IA-N
+D30,IA/S,Southern District of Iowa,Q2 FY19,Ratifications,0,1,IA-S
+D23,ID/D,District of Idaho,Q2 FY19,Ratifications,0,1,ID-D
+D26,IL/C,Central District of Illinois,Q2 FY19,Ratifications,0,1,IL-C
+D24,IL/N,Northern District of Illinois,Q2 FY19,Ratifications,0,1,IL-N
+D25,IL/S,Southern District of Illinois,Q2 FY19,Ratifications,0,1,IL-S
+D27,IN/N,Northern District of Indiana,Q2 FY19,Ratifications,0,1,IN-N
+D28,IN/S,Southern District of Indiana,Q2 FY19,Ratifications,0,1,IN-S
+D31,KS/D,District of Kansas,Q2 FY19,Ratifications,0,1,KS-D
+D32,KY/E,Eastern District of Kentucky,Q2 FY19,Ratifications,0,1,KY-E
+D33,KY/W,Western District of Kentucky,Q2 FY19,Ratifications,0,1,KY-W
+D34,LA/E,Eastern District of Louisiana,Q2 FY19,Ratifications,0,1,LA-E
+D95,LA/M,Middle District of Louisiana,Q2 FY19,Ratifications,0,1,LA-M
+D35,LA/W,Western District of Louisiana,Q2 FY19,Ratifications,0,1,LA-W
+D38,MA/D,District of Massachusetts,Q2 FY19,Ratifications,0,1,MA-D
+D37,MD/D,District of Maryland,Q2 FY19,Ratifications,0,1,MD-D
+D36,ME/D,District of Maine,Q2 FY19,Ratifications,0,1,ME-D
+D39,MI/E,Eastern District of Michigan,Q2 FY19,Ratifications,0,1,MI-E
+D40,MI/W,Western District of Michigan,Q2 FY19,Ratifications,0,1,MI-W
+D41,MN/D,District of Minnesota,Q2 FY19,Ratifications,0,1,MN-D
+D44,MO/E,Eastern District of Missouri,Q2 FY19,Ratifications,0,1,MO-E
+D45,MO/W,Western District of Missouri,Q2 FY19,Ratifications,0,1,MO-W
+D42,MS/N,Northern District of Mississippi,Q2 FY19,Ratifications,0,1,MS-N
+D43,MS/S,Southern District of Mississippi,Q2 FY19,Ratifications,0,1,MS-S
+D46,MT/D,District of Montana,Q2 FY19,Ratifications,0,1,MT-D
+D56,NC/E,Eastern District of North Carolina,Q2 FY19,Ratifications,0,1,NC-E
+D57,NC/M,Middle District of North Carolina,Q2 FY19,Ratifications,0,1,NC-M
+D58,NC/W,Western District of North Carolina,Q2 FY19,Ratifications,0,1,NC-W
+D59,ND/D,District of North Dakota,Q2 FY19,Ratifications,0,1,ND-D
+D47,NE/D,District of Nebraska,Q2 FY19,Ratifications,0,1,NE-D
+D49,NH/D,District of New Hampshire,Q2 FY19,Ratifications,0,1,NH-D
+D50,NJ/D,District of New Jersey,Q2 FY19,Ratifications,0,1,NJ-D
+D51,NM/D,District of New Mexico,Q2 FY19,Ratifications,0,1,NM-D
+D48,NV/D,District of Nevada,Q2 FY19,Ratifications,0,1,NV-D
+D53,NY/E,Eastern District of New York,Q2 FY19,Ratifications,0,1,NY-E
+D52,NY/N,Northern District of New York,Q2 FY19,Ratifications,0,1,NY-N
+D54,NY/S,Southern District of New York,Q2 FY19,Ratifications,0,1,NY-S
+D55,NY/W,Western District of New York,Q2 FY19,Ratifications,0,1,NY-W
+D60,OH/N,Northern District of Ohio,Q2 FY19,Ratifications,0,1,OH-N
+D61,OH/S,Southern District of Ohio,Q2 FY19,Ratifications,0,1,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q2 FY19,Ratifications,0,1,OK-E
+D62,OK/N,Northern District of Oklahoma,Q2 FY19,Ratifications,0,1,OK-N
+D64,OK/W,Western District of Oklahoma,Q2 FY19,Ratifications,0,1,OK-W
+D65,OR/D,District of Oregon,Q2 FY19,Ratifications,0,1,OR-D
+D66,PA/E,Eastern District of Pennsylvania,Q2 FY19,Ratifications,0,1,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q2 FY19,Ratifications,0,1,PA-M
+D68,PA/W,Western District of Pennsylvania,Q2 FY19,Ratifications,0,1,PA-W
+D69,PR/D,District of Puerto Rico,Q2 FY19,Ratifications,0,1,PR-D
+D70,RI/D,District of Rhode Island,Q2 FY19,Ratifications,0,1,RI-D
+D71,SC/D,District of South Carolina,Q2 FY19,Ratifications,0,1,SC-D
+D73,SD/D,District of South Dakota,Q2 FY19,Ratifications,0,1,SD-D
+D74,TN/E,Eastern District of Tennessee,Q2 FY19,Ratifications,0,1,TN-E
+D75,TN/M,Middle District of Tennessee,Q2 FY19,Ratifications,0,1,TN-M
+D76,TN/W,Western District of Tennessee,Q2 FY19,Ratifications,0,1,TN-W
+D78,TX/E,Eastern District of Texas,Q2 FY19,Ratifications,0,1,TX-E
+D77,TX/N,Northern District of Texas,Q2 FY19,Ratifications,0,1,TX-N
+D80,TX/W,Western District of Texas,Q2 FY19,Ratifications,0,1,TX-W
+D81,UT/D,District of Utah,Q2 FY19,Ratifications,0,1,UT-D
+D83,VA/E,Eastern District of Virginia,Q2 FY19,Ratifications,0,1,VA-E
+D84,VA/W,Western District of Virginia,Q2 FY19,Ratifications,0,1,VA-W
+D94,VI/D,District of the Virgin Islands,Q2 FY19,Ratifications,0,1,VI-D
+D82,VT/D,District of Vermont,Q2 FY19,Ratifications,0,1,VT-D
+D85,WA/E,Eastern District of Washington,Q2 FY19,Ratifications,0,1,WA-E
+D86,WA/W,Western District of Washington,Q2 FY19,Ratifications,0,1,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q2 FY19,Ratifications,0,1,WI-E
+D90,WI/W,Western District of Wisconsin,Q2 FY19,Ratifications,0,1,WI-W
+D87,WV/N,Northern District of West Virginia,Q2 FY19,Ratifications,0,1,WV-N
+D88,WV/S,Southern District of West Virginia,Q2 FY19,Ratifications,0,1,WV-S
+D91,WY/D,District of Wyoming,Q2 FY19,Ratifications,0,1,WY-D
+D06,AK/D,District of Alaska,Q1 FY19,Ratifications,0,1,AK-D
+D02,AL/M,Middle District of Alabama,Q1 FY19,Ratifications,0,1,AL-M
+D01,AL/N,Northern District of Alabama,Q1 FY19,Ratifications,0,1,AL-N
+D03,AL/S,Southern District of Alabama,Q1 FY19,Ratifications,0,1,AL-S
+D09,AR/E,Eastern District of Arkansas,Q1 FY19,Ratifications,0,1,AR-E
+D10,AR/W,Western District of Arkansas,Q1 FY19,Ratifications,0,1,AR-W
+D08,AZ/D,District of Arizona,Q1 FY19,Ratifications,0,1,AZ-D
+D12,CA/C,Central District of California,Q1 FY19,Ratifications,0,1,CA-C
+D97,CA/E,Eastern District of California,Q1 FY19,Ratifications,0,1,CA-E
+D11,CA/N,Northern District of California,Q1 FY19,Ratifications,0,1,CA-N
+D98,CA/S,Southern District of California,Q1 FY19,Ratifications,0,1,CA-S
+D13,CO/D,District of Colorado,Q1 FY19,Ratifications,0,1,CO-D
+D14,CT/D,District of Connecticut,Q1 FY19,Ratifications,0,1,CT-D
+D16,DC/D,District of Columbia,Q1 FY19,Ratifications,0,1,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q1 FY19,Ratifications,0,1,DC-SC
+D15,DE/D,District of Delaware,Q1 FY19,Ratifications,0,1,DE-D
+D18,FL/M,Middle District of Florida,Q1 FY19,Ratifications,0,1,FL-M
+D17,FL/N,Northern District of Florida,Q1 FY19,Ratifications,0,1,FL-N
+D04,FL/S,Southern District of Florida,Q1 FY19,Ratifications,0,1,FL-S
+D20,GA/M,Middle District of Georgia,Q1 FY19,Ratifications,0,1,GA-M
+D19,GA/N,Northern District of Georgia,Q1 FY19,Ratifications,0,1,GA-N
+D21,GA/S,Southern District of Georgia,Q1 FY19,Ratifications,0,1,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q1 FY19,Ratifications,0,1,GU-D
+D22,HI/D,District of Hawaii,Q1 FY19,Ratifications,0,1,HI-D
+D29,IA/N,Northern District of Iowa,Q1 FY19,Ratifications,0,1,IA-N
+D30,IA/S,Southern District of Iowa,Q1 FY19,Ratifications,0,1,IA-S
+D23,ID/D,District of Idaho,Q1 FY19,Ratifications,0,1,ID-D
+D26,IL/C,Central District of Illinois,Q1 FY19,Ratifications,0,1,IL-C
+D24,IL/N,Northern District of Illinois,Q1 FY19,Ratifications,0,1,IL-N
+D25,IL/S,Southern District of Illinois,Q1 FY19,Ratifications,0,1,IL-S
+D27,IN/N,Northern District of Indiana,Q1 FY19,Ratifications,0,1,IN-N
+D28,IN/S,Southern District of Indiana,Q1 FY19,Ratifications,0,1,IN-S
+D31,KS/D,District of Kansas,Q1 FY19,Ratifications,0,1,KS-D
+D32,KY/E,Eastern District of Kentucky,Q1 FY19,Ratifications,0,1,KY-E
+D33,KY/W,Western District of Kentucky,Q1 FY19,Ratifications,0,1,KY-W
+D34,LA/E,Eastern District of Louisiana,Q1 FY19,Ratifications,0,1,LA-E
+D95,LA/M,Middle District of Louisiana,Q1 FY19,Ratifications,0,1,LA-M
+D35,LA/W,Western District of Louisiana,Q1 FY19,Ratifications,0,1,LA-W
+D38,MA/D,District of Massachusetts,Q1 FY19,Ratifications,0,1,MA-D
+D37,MD/D,District of Maryland,Q1 FY19,Ratifications,0,1,MD-D
+D36,ME/D,District of Maine,Q1 FY19,Ratifications,0,1,ME-D
+D39,MI/E,Eastern District of Michigan,Q1 FY19,Ratifications,0,1,MI-E
+D40,MI/W,Western District of Michigan,Q1 FY19,Ratifications,0,1,MI-W
+D41,MN/D,District of Minnesota,Q1 FY19,Ratifications,0,1,MN-D
+D44,MO/E,Eastern District of Missouri,Q1 FY19,Ratifications,0,1,MO-E
+D45,MO/W,Western District of Missouri,Q1 FY19,Ratifications,0,1,MO-W
+D42,MS/N,Northern District of Mississippi,Q1 FY19,Ratifications,0,1,MS-N
+D43,MS/S,Southern District of Mississippi,Q1 FY19,Ratifications,0,1,MS-S
+D46,MT/D,District of Montana,Q1 FY19,Ratifications,0,1,MT-D
+D57,NC/M,Middle District of North Carolina,Q1 FY19,Ratifications,0,1,NC-M
+D58,NC/W,Western District of North Carolina,Q1 FY19,Ratifications,0,1,NC-W
+D59,ND/D,District of North Dakota,Q1 FY19,Ratifications,0,1,ND-D
+D47,NE/D,District of Nebraska,Q1 FY19,Ratifications,0,1,NE-D
+D49,NH/D,District of New Hampshire,Q1 FY19,Ratifications,0,1,NH-D
+D50,NJ/D,District of New Jersey,Q1 FY19,Ratifications,0,1,NJ-D
+D51,NM/D,District of New Mexico,Q1 FY19,Ratifications,0,1,NM-D
+D48,NV/D,District of Nevada,Q1 FY19,Ratifications,0,1,NV-D
+D53,NY/E,Eastern District of New York,Q1 FY19,Ratifications,0,1,NY-E
+D52,NY/N,Northern District of New York,Q1 FY19,Ratifications,0,1,NY-N
+D54,NY/S,Southern District of New York,Q1 FY19,Ratifications,0,1,NY-S
+D55,NY/W,Western District of New York,Q1 FY19,Ratifications,0,1,NY-W
+D60,OH/N,Northern District of Ohio,Q1 FY19,Ratifications,0,1,OH-N
+D61,OH/S,Southern District of Ohio,Q1 FY19,Ratifications,0,1,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q1 FY19,Ratifications,0,1,OK-E
+D62,OK/N,Northern District of Oklahoma,Q1 FY19,Ratifications,0,1,OK-N
+D64,OK/W,Western District of Oklahoma,Q1 FY19,Ratifications,0,1,OK-W
+D65,OR/D,District of Oregon,Q1 FY19,Ratifications,0,1,OR-D
+D66,PA/E,Eastern District of Pennsylvania,Q1 FY19,Ratifications,0,1,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q1 FY19,Ratifications,0,1,PA-M
+D68,PA/W,Western District of Pennsylvania,Q1 FY19,Ratifications,0,1,PA-W
+D69,PR/D,District of Puerto Rico,Q1 FY19,Ratifications,0,1,PR-D
+D70,RI/D,District of Rhode Island,Q1 FY19,Ratifications,0,1,RI-D
+D71,SC/D,District of South Carolina,Q1 FY19,Ratifications,0,1,SC-D
+D73,SD/D,District of South Dakota,Q1 FY19,Ratifications,0,1,SD-D
+D74,TN/E,Eastern District of Tennessee,Q1 FY19,Ratifications,0,1,TN-E
+D75,TN/M,Middle District of Tennessee,Q1 FY19,Ratifications,0,1,TN-M
+D76,TN/W,Western District of Tennessee,Q1 FY19,Ratifications,0,1,TN-W
+D78,TX/E,Eastern District of Texas,Q1 FY19,Ratifications,0,1,TX-E
+D77,TX/N,Northern District of Texas,Q1 FY19,Ratifications,0,1,TX-N
+D79,TX/S,Southern District of Texas,Q1 FY19,Ratifications,0,1,TX-S
+D80,TX/W,Western District of Texas,Q1 FY19,Ratifications,0,1,TX-W
+D81,UT/D,District of Utah,Q1 FY19,Ratifications,0,1,UT-D
+D83,VA/E,Eastern District of Virginia,Q1 FY19,Ratifications,0,1,VA-E
+D84,VA/W,Western District of Virginia,Q1 FY19,Ratifications,0,1,VA-W
+D94,VI/D,District of the Virgin Islands,Q1 FY19,Ratifications,0,1,VI-D
+D82,VT/D,District of Vermont,Q1 FY19,Ratifications,0,1,VT-D
+D85,WA/E,Eastern District of Washington,Q1 FY19,Ratifications,0,1,WA-E
+D86,WA/W,Western District of Washington,Q1 FY19,Ratifications,0,1,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q1 FY19,Ratifications,0,1,WI-E
+D90,WI/W,Western District of Wisconsin,Q1 FY19,Ratifications,0,1,WI-W
+D87,WV/N,Northern District of West Virginia,Q1 FY19,Ratifications,0,1,WV-N
+D88,WV/S,Southern District of West Virginia,Q1 FY19,Ratifications,0,1,WV-S
+D91,WY/D,District of Wyoming,Q1 FY19,Ratifications,0,1,WY-D
+D06,AK/D,District of Alaska,Q3 FY19,Ratifications,0,2,AK-D
+D02,AL/M,Middle District of Alabama,Q3 FY19,Ratifications,0,2,AL-M
+D01,AL/N,Northern District of Alabama,Q3 FY19,Ratifications,0,2,AL-N
+D03,AL/S,Southern District of Alabama,Q3 FY19,Ratifications,0,2,AL-S
+D09,AR/E,Eastern District of Arkansas,Q3 FY19,Ratifications,0,2,AR-E
+D10,AR/W,Western District of Arkansas,Q3 FY19,Ratifications,0,2,AR-W
+D08,AZ/D,District of Arizona,Q3 FY19,Ratifications,0,2,AZ-D
+D12,CA/C,Central District of California,Q3 FY19,Ratifications,0,2,CA-C
+D97,CA/E,Eastern District of California,Q3 FY19,Ratifications,0,2,CA-E
+D11,CA/N,Northern District of California,Q3 FY19,Ratifications,0,2,CA-N
+D98,CA/S,Southern District of California,Q3 FY19,Ratifications,0,2,CA-S
+D13,CO/D,District of Colorado,Q3 FY19,Ratifications,0,2,CO-D
+D14,CT/D,District of Connecticut,Q3 FY19,Ratifications,0,2,CT-D
+D16,DC/D,District of Columbia,Q3 FY19,Ratifications,0,2,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q3 FY19,Ratifications,0,2,DC-SC
+D15,DE/D,District of Delaware,Q3 FY19,Ratifications,0,2,DE-D
+D18,FL/M,Middle District of Florida,Q3 FY19,Ratifications,0,2,FL-M
+D17,FL/N,Northern District of Florida,Q3 FY19,Ratifications,0,2,FL-N
+D04,FL/S,Southern District of Florida,Q3 FY19,Ratifications,0,2,FL-S
+D20,GA/M,Middle District of Georgia,Q3 FY19,Ratifications,0,2,GA-M
+D19,GA/N,Northern District of Georgia,Q3 FY19,Ratifications,0,2,GA-N
+D21,GA/S,Southern District of Georgia,Q3 FY19,Ratifications,0,2,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q3 FY19,Ratifications,0,2,GU-D
+D22,HI/D,District of Hawaii,Q3 FY19,Ratifications,0,2,HI-D
+D29,IA/N,Northern District of Iowa,Q3 FY19,Ratifications,0,2,IA-N
+D30,IA/S,Southern District of Iowa,Q3 FY19,Ratifications,0,2,IA-S
+D23,ID/D,District of Idaho,Q3 FY19,Ratifications,0,2,ID-D
+D26,IL/C,Central District of Illinois,Q3 FY19,Ratifications,0,2,IL-C
+D24,IL/N,Northern District of Illinois,Q3 FY19,Ratifications,0,2,IL-N
+D27,IN/N,Northern District of Indiana,Q3 FY19,Ratifications,0,2,IN-N
+D28,IN/S,Southern District of Indiana,Q3 FY19,Ratifications,0,2,IN-S
+D31,KS/D,District of Kansas,Q3 FY19,Ratifications,0,2,KS-D
+D32,KY/E,Eastern District of Kentucky,Q3 FY19,Ratifications,0,2,KY-E
+D33,KY/W,Western District of Kentucky,Q3 FY19,Ratifications,0,2,KY-W
+D34,LA/E,Eastern District of Louisiana,Q3 FY19,Ratifications,0,2,LA-E
+D95,LA/M,Middle District of Louisiana,Q3 FY19,Ratifications,0,2,LA-M
+D35,LA/W,Western District of Louisiana,Q3 FY19,Ratifications,0,2,LA-W
+D38,MA/D,District of Massachusetts,Q3 FY19,Ratifications,0,2,MA-D
+D37,MD/D,District of Maryland,Q3 FY19,Ratifications,0,2,MD-D
+D36,ME/D,District of Maine,Q3 FY19,Ratifications,0,2,ME-D
+D39,MI/E,Eastern District of Michigan,Q3 FY19,Ratifications,0,2,MI-E
+D40,MI/W,Western District of Michigan,Q3 FY19,Ratifications,0,2,MI-W
+D41,MN/D,District of Minnesota,Q3 FY19,Ratifications,0,2,MN-D
+D44,MO/E,Eastern District of Missouri,Q3 FY19,Ratifications,0,2,MO-E
+D45,MO/W,Western District of Missouri,Q3 FY19,Ratifications,0,2,MO-W
+D42,MS/N,Northern District of Mississippi,Q3 FY19,Ratifications,0,2,MS-N
+D43,MS/S,Southern District of Mississippi,Q3 FY19,Ratifications,0,2,MS-S
+D46,MT/D,District of Montana,Q3 FY19,Ratifications,0,2,MT-D
+D56,NC/E,Eastern District of North Carolina,Q3 FY19,Ratifications,0,2,NC-E
+D57,NC/M,Middle District of North Carolina,Q3 FY19,Ratifications,0,2,NC-M
+D58,NC/W,Western District of North Carolina,Q3 FY19,Ratifications,0,2,NC-W
+D59,ND/D,District of North Dakota,Q3 FY19,Ratifications,0,2,ND-D
+D47,NE/D,District of Nebraska,Q3 FY19,Ratifications,0,2,NE-D
+D49,NH/D,District of New Hampshire,Q3 FY19,Ratifications,0,2,NH-D
+D50,NJ/D,District of New Jersey,Q3 FY19,Ratifications,0,2,NJ-D
+D51,NM/D,District of New Mexico,Q3 FY19,Ratifications,0,2,NM-D
+D48,NV/D,District of Nevada,Q3 FY19,Ratifications,0,2,NV-D
+D53,NY/E,Eastern District of New York,Q3 FY19,Ratifications,0,2,NY-E
+D52,NY/N,Northern District of New York,Q3 FY19,Ratifications,0,2,NY-N
+D54,NY/S,Southern District of New York,Q3 FY19,Ratifications,0,2,NY-S
+D55,NY/W,Western District of New York,Q3 FY19,Ratifications,0,2,NY-W
+D60,OH/N,Northern District of Ohio,Q3 FY19,Ratifications,0,2,OH-N
+D61,OH/S,Southern District of Ohio,Q3 FY19,Ratifications,0,2,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q3 FY19,Ratifications,0,2,OK-E
+D62,OK/N,Northern District of Oklahoma,Q3 FY19,Ratifications,0,2,OK-N
+D64,OK/W,Western District of Oklahoma,Q3 FY19,Ratifications,0,2,OK-W
+D65,OR/D,District of Oregon,Q3 FY19,Ratifications,0,2,OR-D
+D66,PA/E,Eastern District of Pennsylvania,Q3 FY19,Ratifications,0,2,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q3 FY19,Ratifications,0,2,PA-M
+D68,PA/W,Western District of Pennsylvania,Q3 FY19,Ratifications,0,2,PA-W
+D69,PR/D,District of Puerto Rico,Q3 FY19,Ratifications,0,2,PR-D
+D70,RI/D,District of Rhode Island,Q3 FY19,Ratifications,0,2,RI-D
+D71,SC/D,District of South Carolina,Q3 FY19,Ratifications,0,2,SC-D
+D73,SD/D,District of South Dakota,Q3 FY19,Ratifications,0,2,SD-D
+D74,TN/E,Eastern District of Tennessee,Q3 FY19,Ratifications,0,2,TN-E
+D75,TN/M,Middle District of Tennessee,Q3 FY19,Ratifications,0,2,TN-M
+D76,TN/W,Western District of Tennessee,Q3 FY19,Ratifications,0,2,TN-W
+D78,TX/E,Eastern District of Texas,Q3 FY19,Ratifications,0,2,TX-E
+D77,TX/N,Northern District of Texas,Q3 FY19,Ratifications,0,2,TX-N
+D79,TX/S,Southern District of Texas,Q3 FY19,Ratifications,0,2,TX-S
+D81,UT/D,District of Utah,Q3 FY19,Ratifications,0,2,UT-D
+D83,VA/E,Eastern District of Virginia,Q3 FY19,Ratifications,0,2,VA-E
+D84,VA/W,Western District of Virginia,Q3 FY19,Ratifications,0,2,VA-W
+D94,VI/D,District of the Virgin Islands,Q3 FY19,Ratifications,0,2,VI-D
+D82,VT/D,District of Vermont,Q3 FY19,Ratifications,0,2,VT-D
+D85,WA/E,Eastern District of Washington,Q3 FY19,Ratifications,0,2,WA-E
+D86,WA/W,Western District of Washington,Q3 FY19,Ratifications,0,2,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q3 FY19,Ratifications,0,2,WI-E
+D90,WI/W,Western District of Wisconsin,Q3 FY19,Ratifications,0,2,WI-W
+D87,WV/N,Northern District of West Virginia,Q3 FY19,Ratifications,0,2,WV-N
+D88,WV/S,Southern District of West Virginia,Q3 FY19,Ratifications,0,2,WV-S
+D91,WY/D,District of Wyoming,Q3 FY19,Ratifications,0,2,WY-D
+D06,AK/D,District of Alaska,Q4 FY19,Ratifications,0,2,AK-D
+D02,AL/M,Middle District of Alabama,Q4 FY19,Ratifications,0,2,AL-M
+D01,AL/N,Northern District of Alabama,Q4 FY19,Ratifications,0,2,AL-N
+D03,AL/S,Southern District of Alabama,Q4 FY19,Ratifications,0,2,AL-S
+D09,AR/E,Eastern District of Arkansas,Q4 FY19,Ratifications,0,2,AR-E
+D10,AR/W,Western District of Arkansas,Q4 FY19,Ratifications,0,2,AR-W
+D12,CA/C,Central District of California,Q4 FY19,Ratifications,0,2,CA-C
+D97,CA/E,Eastern District of California,Q4 FY19,Ratifications,0,2,CA-E
+D11,CA/N,Northern District of California,Q4 FY19,Ratifications,0,2,CA-N
+D98,CA/S,Southern District of California,Q4 FY19,Ratifications,0,2,CA-S
+D13,CO/D,District of Colorado,Q4 FY19,Ratifications,0,2,CO-D
+D14,CT/D,District of Connecticut,Q4 FY19,Ratifications,0,2,CT-D
+D16,DC/D,District of Columbia,Q4 FY19,Ratifications,0,2,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q4 FY19,Ratifications,0,2,DC-SC
+D15,DE/D,District of Delaware,Q4 FY19,Ratifications,0,2,DE-D
+D18,FL/M,Middle District of Florida,Q4 FY19,Ratifications,0,2,FL-M
+D17,FL/N,Northern District of Florida,Q4 FY19,Ratifications,0,2,FL-N
+D04,FL/S,Southern District of Florida,Q4 FY19,Ratifications,0,2,FL-S
+D20,GA/M,Middle District of Georgia,Q4 FY19,Ratifications,0,2,GA-M
+D19,GA/N,Northern District of Georgia,Q4 FY19,Ratifications,0,2,GA-N
+D21,GA/S,Southern District of Georgia,Q4 FY19,Ratifications,0,2,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q4 FY19,Ratifications,0,2,GU-D
+D22,HI/D,District of Hawaii,Q4 FY19,Ratifications,0,2,HI-D
+D29,IA/N,Northern District of Iowa,Q4 FY19,Ratifications,0,2,IA-N
+D30,IA/S,Southern District of Iowa,Q4 FY19,Ratifications,0,2,IA-S
+D23,ID/D,District of Idaho,Q4 FY19,Ratifications,0,2,ID-D
+D26,IL/C,Central District of Illinois,Q4 FY19,Ratifications,0,2,IL-C
+D24,IL/N,Northern District of Illinois,Q4 FY19,Ratifications,0,2,IL-N
+D25,IL/S,Southern District of Illinois,Q4 FY19,Ratifications,0,2,IL-S
+D27,IN/N,Northern District of Indiana,Q4 FY19,Ratifications,0,2,IN-N
+D28,IN/S,Southern District of Indiana,Q4 FY19,Ratifications,0,2,IN-S
+D31,KS/D,District of Kansas,Q4 FY19,Ratifications,0,2,KS-D
+D32,KY/E,Eastern District of Kentucky,Q4 FY19,Ratifications,0,2,KY-E
+D33,KY/W,Western District of Kentucky,Q4 FY19,Ratifications,0,2,KY-W
+D34,LA/E,Eastern District of Louisiana,Q4 FY19,Ratifications,0,2,LA-E
+D95,LA/M,Middle District of Louisiana,Q4 FY19,Ratifications,0,2,LA-M
+D35,LA/W,Western District of Louisiana,Q4 FY19,Ratifications,0,2,LA-W
+D38,MA/D,District of Massachusetts,Q4 FY19,Ratifications,0,2,MA-D
+D37,MD/D,District of Maryland,Q4 FY19,Ratifications,0,2,MD-D
+D36,ME/D,District of Maine,Q4 FY19,Ratifications,0,2,ME-D
+D39,MI/E,Eastern District of Michigan,Q4 FY19,Ratifications,0,2,MI-E
+D40,MI/W,Western District of Michigan,Q4 FY19,Ratifications,0,2,MI-W
+D41,MN/D,District of Minnesota,Q4 FY19,Ratifications,0,2,MN-D
+D44,MO/E,Eastern District of Missouri,Q4 FY19,Ratifications,0,2,MO-E
+D45,MO/W,Western District of Missouri,Q4 FY19,Ratifications,0,2,MO-W
+D42,MS/N,Northern District of Mississippi,Q4 FY19,Ratifications,0,2,MS-N
+D43,MS/S,Southern District of Mississippi,Q4 FY19,Ratifications,0,2,MS-S
+D46,MT/D,District of Montana,Q4 FY19,Ratifications,0,2,MT-D
+D56,NC/E,Eastern District of North Carolina,Q4 FY19,Ratifications,0,2,NC-E
+D57,NC/M,Middle District of North Carolina,Q4 FY19,Ratifications,0,2,NC-M
+D58,NC/W,Western District of North Carolina,Q4 FY19,Ratifications,0,2,NC-W
+D59,ND/D,District of North Dakota,Q4 FY19,Ratifications,0,2,ND-D
+D47,NE/D,District of Nebraska,Q4 FY19,Ratifications,0,2,NE-D
+D49,NH/D,District of New Hampshire,Q4 FY19,Ratifications,0,2,NH-D
+D50,NJ/D,District of New Jersey,Q4 FY19,Ratifications,0,2,NJ-D
+D51,NM/D,District of New Mexico,Q4 FY19,Ratifications,0,2,NM-D
+D48,NV/D,District of Nevada,Q4 FY19,Ratifications,0,2,NV-D
+D53,NY/E,Eastern District of New York,Q4 FY19,Ratifications,0,2,NY-E
+D52,NY/N,Northern District of New York,Q4 FY19,Ratifications,0,2,NY-N
+D54,NY/S,Southern District of New York,Q4 FY19,Ratifications,0,2,NY-S
+D55,NY/W,Western District of New York,Q4 FY19,Ratifications,0,2,NY-W
+D60,OH/N,Northern District of Ohio,Q4 FY19,Ratifications,0,2,OH-N
+D61,OH/S,Southern District of Ohio,Q4 FY19,Ratifications,0,2,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q4 FY19,Ratifications,0,2,OK-E
+D62,OK/N,Northern District of Oklahoma,Q4 FY19,Ratifications,0,2,OK-N
+D64,OK/W,Western District of Oklahoma,Q4 FY19,Ratifications,0,2,OK-W
+D65,OR/D,District of Oregon,Q4 FY19,Ratifications,0,2,OR-D
+D66,PA/E,Eastern District of Pennsylvania,Q4 FY19,Ratifications,0,2,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q4 FY19,Ratifications,0,2,PA-M
+D68,PA/W,Western District of Pennsylvania,Q4 FY19,Ratifications,0,2,PA-W
+D69,PR/D,District of Puerto Rico,Q4 FY19,Ratifications,0,2,PR-D
+D70,RI/D,District of Rhode Island,Q4 FY19,Ratifications,0,2,RI-D
+D71,SC/D,District of South Carolina,Q4 FY19,Ratifications,0,2,SC-D
+D73,SD/D,District of South Dakota,Q4 FY19,Ratifications,0,2,SD-D
+D74,TN/E,Eastern District of Tennessee,Q4 FY19,Ratifications,0,2,TN-E
+D75,TN/M,Middle District of Tennessee,Q4 FY19,Ratifications,0,2,TN-M
+D76,TN/W,Western District of Tennessee,Q4 FY19,Ratifications,0,2,TN-W
+D78,TX/E,Eastern District of Texas,Q4 FY19,Ratifications,0,2,TX-E
+D77,TX/N,Northern District of Texas,Q4 FY19,Ratifications,0,2,TX-N
+D79,TX/S,Southern District of Texas,Q4 FY19,Ratifications,0,2,TX-S
+D80,TX/W,Western District of Texas,Q4 FY19,Ratifications,0,2,TX-W
+D81,UT/D,District of Utah,Q4 FY19,Ratifications,0,2,UT-D
+D83,VA/E,Eastern District of Virginia,Q4 FY19,Ratifications,0,2,VA-E
+D84,VA/W,Western District of Virginia,Q4 FY19,Ratifications,0,2,VA-W
+D94,VI/D,District of the Virgin Islands,Q4 FY19,Ratifications,0,2,VI-D
+D82,VT/D,District of Vermont,Q4 FY19,Ratifications,0,2,VT-D
+D85,WA/E,Eastern District of Washington,Q4 FY19,Ratifications,0,2,WA-E
+D86,WA/W,Western District of Washington,Q4 FY19,Ratifications,0,2,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q4 FY19,Ratifications,0,2,WI-E
+D90,WI/W,Western District of Wisconsin,Q4 FY19,Ratifications,0,2,WI-W
+D88,WV/S,Southern District of West Virginia,Q4 FY19,Ratifications,0,2,WV-S
+D91,WY/D,District of Wyoming,Q4 FY19,Ratifications,0,2,WY-D
+D06,AK/D,District of Alaska,Q4 FY18,Ratifications,0,3,AK-D
+D02,AL/M,Middle District of Alabama,Q4 FY18,Ratifications,0,3,AL-M
+D01,AL/N,Northern District of Alabama,Q4 FY18,Ratifications,0,3,AL-N
+D03,AL/S,Southern District of Alabama,Q4 FY18,Ratifications,0,3,AL-S
+D09,AR/E,Eastern District of Arkansas,Q4 FY18,Ratifications,0,3,AR-E
+D10,AR/W,Western District of Arkansas,Q4 FY18,Ratifications,0,3,AR-W
+D08,AZ/D,District of Arizona,Q4 FY18,Ratifications,0,3,AZ-D
+D12,CA/C,Central District of California,Q4 FY18,Ratifications,0,3,CA-C
+D97,CA/E,Eastern District of California,Q4 FY18,Ratifications,0,3,CA-E
+D11,CA/N,Northern District of California,Q4 FY18,Ratifications,0,3,CA-N
+D13,CO/D,District of Colorado,Q4 FY18,Ratifications,0,3,CO-D
+D14,CT/D,District of Connecticut,Q4 FY18,Ratifications,0,3,CT-D
+D16,DC/D,District of Columbia,Q4 FY18,Ratifications,0,3,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q4 FY18,Ratifications,0,3,DC-SC
+D15,DE/D,District of Delaware,Q4 FY18,Ratifications,0,3,DE-D
+D18,FL/M,Middle District of Florida,Q4 FY18,Ratifications,0,3,FL-M
+D17,FL/N,Northern District of Florida,Q4 FY18,Ratifications,0,3,FL-N
+D04,FL/S,Southern District of Florida,Q4 FY18,Ratifications,0,3,FL-S
+D20,GA/M,Middle District of Georgia,Q4 FY18,Ratifications,0,3,GA-M
+D19,GA/N,Northern District of Georgia,Q4 FY18,Ratifications,0,3,GA-N
+D21,GA/S,Southern District of Georgia,Q4 FY18,Ratifications,0,3,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q4 FY18,Ratifications,0,3,GU-D
+D22,HI/D,District of Hawaii,Q4 FY18,Ratifications,0,3,HI-D
+D29,IA/N,Northern District of Iowa,Q4 FY18,Ratifications,0,3,IA-N
+D30,IA/S,Southern District of Iowa,Q4 FY18,Ratifications,0,3,IA-S
+D23,ID/D,District of Idaho,Q4 FY18,Ratifications,0,3,ID-D
+D26,IL/C,Central District of Illinois,Q4 FY18,Ratifications,0,3,IL-C
+D24,IL/N,Northern District of Illinois,Q4 FY18,Ratifications,0,3,IL-N
+D25,IL/S,Southern District of Illinois,Q4 FY18,Ratifications,0,3,IL-S
+D27,IN/N,Northern District of Indiana,Q4 FY18,Ratifications,0,3,IN-N
+D28,IN/S,Southern District of Indiana,Q4 FY18,Ratifications,0,3,IN-S
+D31,KS/D,District of Kansas,Q4 FY18,Ratifications,0,3,KS-D
+D32,KY/E,Eastern District of Kentucky,Q4 FY18,Ratifications,0,3,KY-E
+D33,KY/W,Western District of Kentucky,Q4 FY18,Ratifications,0,3,KY-W
+D34,LA/E,Eastern District of Louisiana,Q4 FY18,Ratifications,0,3,LA-E
+D95,LA/M,Middle District of Louisiana,Q4 FY18,Ratifications,0,3,LA-M
+D35,LA/W,Western District of Louisiana,Q4 FY18,Ratifications,0,3,LA-W
+D38,MA/D,District of Massachusetts,Q4 FY18,Ratifications,0,3,MA-D
+D37,MD/D,District of Maryland,Q4 FY18,Ratifications,0,3,MD-D
+D36,ME/D,District of Maine,Q4 FY18,Ratifications,0,3,ME-D
+D39,MI/E,Eastern District of Michigan,Q4 FY18,Ratifications,0,3,MI-E
+D40,MI/W,Western District of Michigan,Q4 FY18,Ratifications,0,3,MI-W
+D44,MO/E,Eastern District of Missouri,Q4 FY18,Ratifications,0,3,MO-E
+D45,MO/W,Western District of Missouri,Q4 FY18,Ratifications,0,3,MO-W
+D42,MS/N,Northern District of Mississippi,Q4 FY18,Ratifications,0,3,MS-N
+D43,MS/S,Southern District of Mississippi,Q4 FY18,Ratifications,0,3,MS-S
+D46,MT/D,District of Montana,Q4 FY18,Ratifications,0,3,MT-D
+D56,NC/E,Eastern District of North Carolina,Q4 FY18,Ratifications,0,3,NC-E
+D57,NC/M,Middle District of North Carolina,Q4 FY18,Ratifications,0,3,NC-M
+D58,NC/W,Western District of North Carolina,Q4 FY18,Ratifications,0,3,NC-W
+D59,ND/D,District of North Dakota,Q4 FY18,Ratifications,0,3,ND-D
+D47,NE/D,District of Nebraska,Q4 FY18,Ratifications,0,3,NE-D
+D49,NH/D,District of New Hampshire,Q4 FY18,Ratifications,0,3,NH-D
+D50,NJ/D,District of New Jersey,Q4 FY18,Ratifications,0,3,NJ-D
+D51,NM/D,District of New Mexico,Q4 FY18,Ratifications,0,3,NM-D
+D48,NV/D,District of Nevada,Q4 FY18,Ratifications,0,3,NV-D
+D53,NY/E,Eastern District of New York,Q4 FY18,Ratifications,0,3,NY-E
+D52,NY/N,Northern District of New York,Q4 FY18,Ratifications,0,3,NY-N
+D54,NY/S,Southern District of New York,Q4 FY18,Ratifications,0,3,NY-S
+D55,NY/W,Western District of New York,Q4 FY18,Ratifications,0,3,NY-W
+D60,OH/N,Northern District of Ohio,Q4 FY18,Ratifications,0,3,OH-N
+D61,OH/S,Southern District of Ohio,Q4 FY18,Ratifications,0,3,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q4 FY18,Ratifications,0,3,OK-E
+D62,OK/N,Northern District of Oklahoma,Q4 FY18,Ratifications,0,3,OK-N
+D64,OK/W,Western District of Oklahoma,Q4 FY18,Ratifications,0,3,OK-W
+D66,PA/E,Eastern District of Pennsylvania,Q4 FY18,Ratifications,0,3,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q4 FY18,Ratifications,0,3,PA-M
+D68,PA/W,Western District of Pennsylvania,Q4 FY18,Ratifications,0,3,PA-W
+D69,PR/D,District of Puerto Rico,Q4 FY18,Ratifications,0,3,PR-D
+D70,RI/D,District of Rhode Island,Q4 FY18,Ratifications,0,3,RI-D
+D71,SC/D,District of South Carolina,Q4 FY18,Ratifications,0,3,SC-D
+D73,SD/D,District of South Dakota,Q4 FY18,Ratifications,0,3,SD-D
+D74,TN/E,Eastern District of Tennessee,Q4 FY18,Ratifications,0,3,TN-E
+D75,TN/M,Middle District of Tennessee,Q4 FY18,Ratifications,0,3,TN-M
+D76,TN/W,Western District of Tennessee,Q4 FY18,Ratifications,0,3,TN-W
+D78,TX/E,Eastern District of Texas,Q4 FY18,Ratifications,0,3,TX-E
+D77,TX/N,Northern District of Texas,Q4 FY18,Ratifications,0,3,TX-N
+D79,TX/S,Southern District of Texas,Q4 FY18,Ratifications,0,3,TX-S
+D80,TX/W,Western District of Texas,Q4 FY18,Ratifications,0,3,TX-W
+D81,UT/D,District of Utah,Q4 FY18,Ratifications,0,3,UT-D
+D83,VA/E,Eastern District of Virginia,Q4 FY18,Ratifications,0,3,VA-E
+D84,VA/W,Western District of Virginia,Q4 FY18,Ratifications,0,3,VA-W
+D94,VI/D,District of the Virgin Islands,Q4 FY18,Ratifications,0,3,VI-D
+D82,VT/D,District of Vermont,Q4 FY18,Ratifications,0,3,VT-D
+D85,WA/E,Eastern District of Washington,Q4 FY18,Ratifications,0,3,WA-E
+D86,WA/W,Western District of Washington,Q4 FY18,Ratifications,0,3,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q4 FY18,Ratifications,0,3,WI-E
+D90,WI/W,Western District of Wisconsin,Q4 FY18,Ratifications,0,3,WI-W
+D87,WV/N,Northern District of West Virginia,Q4 FY18,Ratifications,0,3,WV-N
+D88,WV/S,Southern District of West Virginia,Q4 FY18,Ratifications,0,3,WV-S
+D91,WY/D,District of Wyoming,Q4 FY18,Ratifications,0,3,WY-D
+D06,AK/D,District of Alaska,Q3 FY18,Ratifications,0,3,AK-D
+D02,AL/M,Middle District of Alabama,Q3 FY18,Ratifications,0,3,AL-M
+D01,AL/N,Northern District of Alabama,Q3 FY18,Ratifications,0,3,AL-N
+D03,AL/S,Southern District of Alabama,Q3 FY18,Ratifications,0,3,AL-S
+D09,AR/E,Eastern District of Arkansas,Q3 FY18,Ratifications,0,3,AR-E
+D10,AR/W,Western District of Arkansas,Q3 FY18,Ratifications,0,3,AR-W
+D08,AZ/D,District of Arizona,Q3 FY18,Ratifications,0,3,AZ-D
+D12,CA/C,Central District of California,Q3 FY18,Ratifications,0,3,CA-C
+D97,CA/E,Eastern District of California,Q3 FY18,Ratifications,0,3,CA-E
+D11,CA/N,Northern District of California,Q3 FY18,Ratifications,0,3,CA-N
+D13,CO/D,District of Colorado,Q3 FY18,Ratifications,0,3,CO-D
+D14,CT/D,District of Connecticut,Q3 FY18,Ratifications,0,3,CT-D
+D16,DC/D,District of Columbia,Q3 FY18,Ratifications,0,3,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q3 FY18,Ratifications,0,3,DC-SC
+D15,DE/D,District of Delaware,Q3 FY18,Ratifications,0,3,DE-D
+D18,FL/M,Middle District of Florida,Q3 FY18,Ratifications,0,3,FL-M
+D17,FL/N,Northern District of Florida,Q3 FY18,Ratifications,0,3,FL-N
+D04,FL/S,Southern District of Florida,Q3 FY18,Ratifications,0,3,FL-S
+D20,GA/M,Middle District of Georgia,Q3 FY18,Ratifications,0,3,GA-M
+D19,GA/N,Northern District of Georgia,Q3 FY18,Ratifications,0,3,GA-N
+D21,GA/S,Southern District of Georgia,Q3 FY18,Ratifications,0,3,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q3 FY18,Ratifications,0,3,GU-D
+D22,HI/D,District of Hawaii,Q3 FY18,Ratifications,0,3,HI-D
+D29,IA/N,Northern District of Iowa,Q3 FY18,Ratifications,0,3,IA-N
+D30,IA/S,Southern District of Iowa,Q3 FY18,Ratifications,0,3,IA-S
+D23,ID/D,District of Idaho,Q3 FY18,Ratifications,0,3,ID-D
+D26,IL/C,Central District of Illinois,Q3 FY18,Ratifications,0,3,IL-C
+D24,IL/N,Northern District of Illinois,Q3 FY18,Ratifications,0,3,IL-N
+D25,IL/S,Southern District of Illinois,Q3 FY18,Ratifications,0,3,IL-S
+D27,IN/N,Northern District of Indiana,Q3 FY18,Ratifications,0,3,IN-N
+D28,IN/S,Southern District of Indiana,Q3 FY18,Ratifications,0,3,IN-S
+D31,KS/D,District of Kansas,Q3 FY18,Ratifications,0,3,KS-D
+D32,KY/E,Eastern District of Kentucky,Q3 FY18,Ratifications,0,3,KY-E
+D33,KY/W,Western District of Kentucky,Q3 FY18,Ratifications,0,3,KY-W
+D34,LA/E,Eastern District of Louisiana,Q3 FY18,Ratifications,0,3,LA-E
+D95,LA/M,Middle District of Louisiana,Q3 FY18,Ratifications,0,3,LA-M
+D35,LA/W,Western District of Louisiana,Q3 FY18,Ratifications,0,3,LA-W
+D38,MA/D,District of Massachusetts,Q3 FY18,Ratifications,0,3,MA-D
+D37,MD/D,District of Maryland,Q3 FY18,Ratifications,0,3,MD-D
+D36,ME/D,District of Maine,Q3 FY18,Ratifications,0,3,ME-D
+D39,MI/E,Eastern District of Michigan,Q3 FY18,Ratifications,0,3,MI-E
+D40,MI/W,Western District of Michigan,Q3 FY18,Ratifications,0,3,MI-W
+D44,MO/E,Eastern District of Missouri,Q3 FY18,Ratifications,0,3,MO-E
+D45,MO/W,Western District of Missouri,Q3 FY18,Ratifications,0,3,MO-W
+D42,MS/N,Northern District of Mississippi,Q3 FY18,Ratifications,0,3,MS-N
+D43,MS/S,Southern District of Mississippi,Q3 FY18,Ratifications,0,3,MS-S
+D46,MT/D,District of Montana,Q3 FY18,Ratifications,0,3,MT-D
+D56,NC/E,Eastern District of North Carolina,Q3 FY18,Ratifications,0,3,NC-E
+D57,NC/M,Middle District of North Carolina,Q3 FY18,Ratifications,0,3,NC-M
+D58,NC/W,Western District of North Carolina,Q3 FY18,Ratifications,0,3,NC-W
+D59,ND/D,District of North Dakota,Q3 FY18,Ratifications,0,3,ND-D
+D47,NE/D,District of Nebraska,Q3 FY18,Ratifications,0,3,NE-D
+D49,NH/D,District of New Hampshire,Q3 FY18,Ratifications,0,3,NH-D
+D50,NJ/D,District of New Jersey,Q3 FY18,Ratifications,0,3,NJ-D
+D51,NM/D,District of New Mexico,Q3 FY18,Ratifications,0,3,NM-D
+D48,NV/D,District of Nevada,Q3 FY18,Ratifications,0,3,NV-D
+D53,NY/E,Eastern District of New York,Q3 FY18,Ratifications,0,3,NY-E
+D52,NY/N,Northern District of New York,Q3 FY18,Ratifications,0,3,NY-N
+D54,NY/S,Southern District of New York,Q3 FY18,Ratifications,0,3,NY-S
+D55,NY/W,Western District of New York,Q3 FY18,Ratifications,0,3,NY-W
+D60,OH/N,Northern District of Ohio,Q3 FY18,Ratifications,0,3,OH-N
+D61,OH/S,Southern District of Ohio,Q3 FY18,Ratifications,0,3,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q3 FY18,Ratifications,0,3,OK-E
+D62,OK/N,Northern District of Oklahoma,Q3 FY18,Ratifications,0,3,OK-N
+D64,OK/W,Western District of Oklahoma,Q3 FY18,Ratifications,0,3,OK-W
+D66,PA/E,Eastern District of Pennsylvania,Q3 FY18,Ratifications,0,3,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q3 FY18,Ratifications,0,3,PA-M
+D68,PA/W,Western District of Pennsylvania,Q3 FY18,Ratifications,0,3,PA-W
+D69,PR/D,District of Puerto Rico,Q3 FY18,Ratifications,0,3,PR-D
+D70,RI/D,District of Rhode Island,Q3 FY18,Ratifications,0,3,RI-D
+D71,SC/D,District of South Carolina,Q3 FY18,Ratifications,0,3,SC-D
+D73,SD/D,District of South Dakota,Q3 FY18,Ratifications,0,3,SD-D
+D74,TN/E,Eastern District of Tennessee,Q3 FY18,Ratifications,0,3,TN-E
+D75,TN/M,Middle District of Tennessee,Q3 FY18,Ratifications,0,3,TN-M
+D76,TN/W,Western District of Tennessee,Q3 FY18,Ratifications,0,3,TN-W
+D78,TX/E,Eastern District of Texas,Q3 FY18,Ratifications,0,3,TX-E
+D77,TX/N,Northern District of Texas,Q3 FY18,Ratifications,0,3,TX-N
+D79,TX/S,Southern District of Texas,Q3 FY18,Ratifications,0,3,TX-S
+D80,TX/W,Western District of Texas,Q3 FY18,Ratifications,0,3,TX-W
+D81,UT/D,District of Utah,Q3 FY18,Ratifications,0,3,UT-D
+D83,VA/E,Eastern District of Virginia,Q3 FY18,Ratifications,0,3,VA-E
+D84,VA/W,Western District of Virginia,Q3 FY18,Ratifications,0,3,VA-W
+D94,VI/D,District of the Virgin Islands,Q3 FY18,Ratifications,0,3,VI-D
+D82,VT/D,District of Vermont,Q3 FY18,Ratifications,0,3,VT-D
+D85,WA/E,Eastern District of Washington,Q3 FY18,Ratifications,0,3,WA-E
+D86,WA/W,Western District of Washington,Q3 FY18,Ratifications,0,3,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q3 FY18,Ratifications,0,3,WI-E
+D90,WI/W,Western District of Wisconsin,Q3 FY18,Ratifications,0,3,WI-W
+D87,WV/N,Northern District of West Virginia,Q3 FY18,Ratifications,0,3,WV-N
+D88,WV/S,Southern District of West Virginia,Q3 FY18,Ratifications,0,3,WV-S
+D91,WY/D,District of Wyoming,Q3 FY18,Ratifications,0,3,WY-D
+All Districts,AllDistricts,All Districts,Q2 FY20,Ratifications,0,0, All Districts
+D06,AK/D,District of Alaska,Q2 FY20,Ratifications,0,0,AK-D
+D02,AL/M,Middle District of Alabama,Q2 FY20,Ratifications,0,0,AL-M
+D01,AL/N,Northern District of Alabama,Q2 FY20,Ratifications,0,0,AL-N
+D03,AL/S,Southern District of Alabama,Q2 FY20,Ratifications,0,0,AL-S
+D09,AR/E,Eastern District of Arkansas,Q2 FY20,Ratifications,0,0,AR-E
+D10,AR/W,Western District of Arkansas,Q2 FY20,Ratifications,0,0,AR-W
+D08,AZ/D,District of Arizona,Q2 FY20,Ratifications,0,0,AZ-D
+D12,CA/C,Central District of California,Q2 FY20,Ratifications,0,0,CA-C
+D97,CA/E,Eastern District of California,Q2 FY20,Ratifications,0,0,CA-E
+D11,CA/N,Northern District of California,Q2 FY20,Ratifications,0,0,CA-N
+D98,CA/S,Southern District of California,Q2 FY20,Ratifications,0,0,CA-S
+D13,CO/D,District of Colorado,Q2 FY20,Ratifications,0,0,CO-D
+D14,CT/D,District of Connecticut,Q2 FY20,Ratifications,0,0,CT-D
+D16,DC/D,District of Columbia,Q2 FY20,Ratifications,0,0,DC-D
+D07,DC/SC,District of Columbia Superior Court,Q2 FY20,Ratifications,0,0,DC-SC
+D15,DE/D,District of Delaware,Q2 FY20,Ratifications,0,0,DE-D
+D18,FL/M,Middle District of Florida,Q2 FY20,Ratifications,0,0,FL-M
+D17,FL/N,Northern District of Florida,Q2 FY20,Ratifications,0,0,FL-N
+D04,FL/S,Southern District of Florida,Q2 FY20,Ratifications,0,0,FL-S
+D20,GA/M,Middle District of Georgia,Q2 FY20,Ratifications,0,0,GA-M
+D19,GA/N,Northern District of Georgia,Q2 FY20,Ratifications,0,0,GA-N
+D21,GA/S,Southern District of Georgia,Q2 FY20,Ratifications,0,0,GA-S
+D93,GU/D,District of Guam/Northern Mariana Island,Q2 FY20,Ratifications,0,0,GU-D
+D22,HI/D,District of Hawaii,Q2 FY20,Ratifications,0,0,HI-D
+D29,IA/N,Northern District of Iowa,Q2 FY20,Ratifications,0,0,IA-N
+D30,IA/S,Southern District of Iowa,Q2 FY20,Ratifications,0,0,IA-S
+D23,ID/D,District of Idaho,Q2 FY20,Ratifications,0,0,ID-D
+D26,IL/C,Central District of Illinois,Q2 FY20,Ratifications,0,0,IL-C
+D24,IL/N,Northern District of Illinois,Q2 FY20,Ratifications,0,0,IL-N
+D25,IL/S,Southern District of Illinois,Q2 FY20,Ratifications,0,0,IL-S
+D27,IN/N,Northern District of Indiana,Q2 FY20,Ratifications,0,0,IN-N
+D28,IN/S,Southern District of Indiana,Q2 FY20,Ratifications,0,0,IN-S
+D31,KS/D,District of Kansas,Q2 FY20,Ratifications,0,0,KS-D
+D32,KY/E,Eastern District of Kentucky,Q2 FY20,Ratifications,0,0,KY-E
+D33,KY/W,Western District of Kentucky,Q2 FY20,Ratifications,0,0,KY-W
+D34,LA/E,Eastern District of Louisiana,Q2 FY20,Ratifications,0,0,LA-E
+D95,LA/M,Middle District of Louisiana,Q2 FY20,Ratifications,0,0,LA-M
+D35,LA/W,Western District of Louisiana,Q2 FY20,Ratifications,0,0,LA-W
+D38,MA/D,District of Massachusetts,Q2 FY20,Ratifications,0,0,MA-D
+D37,MD/D,District of Maryland,Q2 FY20,Ratifications,0,0,MD-D
+D36,ME/D,District of Maine,Q2 FY20,Ratifications,0,0,ME-D
+D39,MI/E,Eastern District of Michigan,Q2 FY20,Ratifications,0,0,MI-E
+D40,MI/W,Western District of Michigan,Q2 FY20,Ratifications,0,0,MI-W
+D41,MN/D,District of Minnesota,Q2 FY20,Ratifications,0,0,MN-D
+D44,MO/E,Eastern District of Missouri,Q2 FY20,Ratifications,0,0,MO-E
+D45,MO/W,Western District of Missouri,Q2 FY20,Ratifications,0,0,MO-W
+D42,MS/N,Northern District of Mississippi,Q2 FY20,Ratifications,0,0,MS-N
+D43,MS/S,Southern District of Mississippi,Q2 FY20,Ratifications,0,0,MS-S
+D46,MT/D,District of Montana,Q2 FY20,Ratifications,0,0,MT-D
+D56,NC/E,Eastern District of North Carolina,Q2 FY20,Ratifications,0,0,NC-E
+D57,NC/M,Middle District of North Carolina,Q2 FY20,Ratifications,0,0,NC-M
+D58,NC/W,Western District of North Carolina,Q2 FY20,Ratifications,0,0,NC-W
+D59,ND/D,District of North Dakota,Q2 FY20,Ratifications,0,0,ND-D
+D47,NE/D,District of Nebraska,Q2 FY20,Ratifications,0,0,NE-D
+D49,NH/D,District of New Hampshire,Q2 FY20,Ratifications,0,0,NH-D
+D50,NJ/D,District of New Jersey,Q2 FY20,Ratifications,0,0,NJ-D
+D51,NM/D,District of New Mexico,Q2 FY20,Ratifications,0,0,NM-D
+D48,NV/D,District of Nevada,Q2 FY20,Ratifications,0,0,NV-D
+D53,NY/E,Eastern District of New York,Q2 FY20,Ratifications,0,0,NY-E
+D52,NY/N,Northern District of New York,Q2 FY20,Ratifications,0,0,NY-N
+D54,NY/S,Southern District of New York,Q2 FY20,Ratifications,0,0,NY-S
+D55,NY/W,Western District of New York,Q2 FY20,Ratifications,0,0,NY-W
+D60,OH/N,Northern District of Ohio,Q2 FY20,Ratifications,0,0,OH-N
+D61,OH/S,Southern District of Ohio,Q2 FY20,Ratifications,0,0,OH-S
+D63,OK/E,Eastern District of Oklahoma,Q2 FY20,Ratifications,0,0,OK-E
+D62,OK/N,Northern District of Oklahoma,Q2 FY20,Ratifications,0,0,OK-N
+D64,OK/W,Western District of Oklahoma,Q2 FY20,Ratifications,0,0,OK-W
+D65,OR/D,District of Oregon,Q2 FY20,Ratifications,0,0,OR-D
+D66,PA/E,Eastern District of Pennsylvania,Q2 FY20,Ratifications,0,0,PA-E
+D67,PA/M,Middle District of Pennsylvania,Q2 FY20,Ratifications,0,0,PA-M
+D68,PA/W,Western District of Pennsylvania,Q2 FY20,Ratifications,0,0,PA-W
+D69,PR/D,District of Puerto Rico,Q2 FY20,Ratifications,0,0,PR-D
+D70,RI/D,District of Rhode Island,Q2 FY20,Ratifications,0,0,RI-D
+D71,SC/D,District of South Carolina,Q2 FY20,Ratifications,0,0,SC-D
+D73,SD/D,District of South Dakota,Q2 FY20,Ratifications,0,0,SD-D
+D74,TN/E,Eastern District of Tennessee,Q2 FY20,Ratifications,0,0,TN-E
+D75,TN/M,Middle District of Tennessee,Q2 FY20,Ratifications,0,0,TN-M
+D76,TN/W,Western District of Tennessee,Q2 FY20,Ratifications,0,0,TN-W
+D78,TX/E,Eastern District of Texas,Q2 FY20,Ratifications,0,0,TX-E
+D77,TX/N,Northern District of Texas,Q2 FY20,Ratifications,0,0,TX-N
+D79,TX/S,Southern District of Texas,Q2 FY20,Ratifications,0,0,TX-S
+D80,TX/W,Western District of Texas,Q2 FY20,Ratifications,0,0,TX-W
+D81,UT/D,District of Utah,Q2 FY20,Ratifications,0,0,UT-D
+D83,VA/E,Eastern District of Virginia,Q2 FY20,Ratifications,0,0,VA-E
+D84,VA/W,Western District of Virginia,Q2 FY20,Ratifications,0,0,VA-W
+D94,VI/D,District of the Virgin Islands,Q2 FY20,Ratifications,0,0,VI-D
+D82,VT/D,District of Vermont,Q2 FY20,Ratifications,0,0,VT-D
+D85,WA/E,Eastern District of Washington,Q2 FY20,Ratifications,0,0,WA-E
+D86,WA/W,Western District of Washington,Q2 FY20,Ratifications,0,0,WA-W
+D89,WI/E,Eastern District of Wisconsin,Q2 FY20,Ratifications,0,0,WI-E
+D90,WI/W,Western District of Wisconsin,Q2 FY20,Ratifications,0,0,WI-W
+D87,WV/N,Northern District of West Virginia,Q2 FY20,Ratifications,0,0,WV-N
+D88,WV/S,Southern District of West Virginia,Q2 FY20,Ratifications,0,0,WV-S
+D91,WY/D,District of Wyoming,Q2 FY20,Ratifications,0,0,WY-D
+All Districts,AllDistricts,All Districts,Q1 FY20,Ratifications,1,1, All Districts
+D55,NY/W,Western District of New York,Q1 FY20,Ratifications,1,1,NY-W
+All Districts,AllDistricts,All Districts,Q4 FY19,Ratifications,2,2, All Districts
+D08,AZ/D,District of Arizona,Q4 FY19,Ratifications,1,2,AZ-D
+D87,WV/N,Northern District of West Virginia,Q4 FY19,Ratifications,1,2,WV-N
+All Districts,AllDistricts,All Districts,Q3 FY19,Ratifications,2,2, All Districts
+D25,IL/S,Southern District of Illinois,Q3 FY19,Ratifications,1,2,IL-S
+D80,TX/W,Western District of Texas,Q3 FY19,Ratifications,1,2,TX-W
+All Districts,AllDistricts,All Districts,Q2 FY19,Ratifications,1,1, All Districts
+D79,TX/S,Southern District of Texas,Q2 FY19,Ratifications,1,1,TX-S
+All Districts,AllDistricts,All Districts,Q1 FY19,Ratifications,1,1, All Districts
+D56,NC/E,Eastern District of North Carolina,Q1 FY19,Ratifications,1,1,NC-E
+All Districts,AllDistricts,All Districts,Q4 FY18,Ratifications,3,3, All Districts
+D98,CA/S,Southern District of California,Q4 FY18,Ratifications,1,3,CA-S
+D41,MN/D,District of Minnesota,Q4 FY18,Ratifications,1,3,MN-D
+D65,OR/D,District of Oregon,Q4 FY18,Ratifications,1,3,OR-D
+All Districts,AllDistricts,All Districts,Q3 FY18,Ratifications,3,3, All Districts
+D98,CA/S,Southern District of California,Q3 FY18,Ratifications,1,3,CA-S
+D41,MN/D,District of Minnesota,Q3 FY18,Ratifications,1,3,MN-D
+D65,OR/D,District of Oregon,Q3 FY18,Ratifications,1,3,OR-D
